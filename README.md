@@ -7,5 +7,3 @@ I have some skills in:
 - Redux (@reduxjs/toolkit);
 - MVC;
 - Git, GitHub.
-
-Contact me: hnztkfc@gmail.com
