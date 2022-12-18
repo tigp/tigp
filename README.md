@@ -3,7 +3,9 @@
 
 I have some skills in:
 - JavaScript, ES6+;
+- TypeScript;
 - React;
 - Redux (@reduxjs/toolkit);
 - MVC;
-- Git, GitHub.
+- Pug;
+- Sass.
